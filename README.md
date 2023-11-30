@@ -8,8 +8,12 @@
 
 <h3>Find me around the web 🖱️</h3>
 
+[![Me][Me]][Me-url]
 [![Github][Github]][Github-url]
 [![Linked-in][Linked-in]][Linked-in-url]
+
+[Me]:https://img.shields.io/badge/my_portfolio-34434c?style=for-the-badge&logo=&logoColor=white
+[Me-url]:https://juliebrunet-portfolio.com/
 
 [Github]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [Github-url]: https://www.github.com/jlbrunet
