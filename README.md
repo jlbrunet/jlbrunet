@@ -8,9 +8,13 @@
 
 <h3>Find me around the web 🖱️</h3>
 
-[![Me][Me]][Me-url]
-[![Github][Github]][Github-url]
-[![Linked-in][Linked-in]][Linked-in-url]
+<a href="https://juliebrunet-portfolio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/my_portfolio-0a9396?style=for-the-badge&logo=&logoColor=white" alt="Me">
+</a>
+
+
+[![Github][Github]][Github-url]{:target="_blank"}
+[![Linked-in][Linked-in]][Linked-in-url]{:target="_blank"}
 
 [Me]:https://img.shields.io/badge/my_portfolio-0a9396?style=for-the-badge&logo=&logoColor=white
 [Me-url]:https://juliebrunet-portfolio.com/
